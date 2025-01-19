@@ -1,1 +1,1 @@
-# Sales_insights_project
+# Sales_insights
